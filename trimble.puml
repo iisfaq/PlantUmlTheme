@@ -2,10 +2,10 @@
 '' superhero theme based off of the bootstrap theme of the same name
 '' https://bootswatch.com/spacelab/
 ''
-'' Author = "Brett Schwarz
+'' Author = "Chris Crowe"
 '' Copyright (c) 2020 by Brett Schwarz
 
-!$THEME = "spacelab"
+!$THEME = "trimble"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
